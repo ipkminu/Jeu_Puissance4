@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1587802922 source:/home/razing/Documents/COURS GI S2/SDLtest/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"fonction.h"
+	"essaiheuristique.h"
+	"minimax.h"
+	"jeuNiveauFacile.h"
+	"AFFICHAGE.h"
+	"alphabeta.h"
+
+1587786622 /home/razing/Documents/COURS GI S2/SDLtest/AFFICHAGE.h
+
+1587803164 /home/razing/Documents/COURS GI S2/SDLtest/fonction.h
+
+1587789836 /home/razing/Documents/COURS GI S2/SDLtest/jeuNiveauFacile.h
+
+1587792449 /home/razing/Documents/COURS GI S2/SDLtest/essaiheuristique.h
+
+1587803484 /home/razing/Documents/COURS GI S2/SDLtest/minimax.h
+
+1587803400 /home/razing/Documents/COURS GI S2/SDLtest/alphabeta.h
+
